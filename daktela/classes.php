@@ -1,4 +1,4 @@
 <?php
 
-echo "Upravena daktela 2";
+echo "";
 ?>
